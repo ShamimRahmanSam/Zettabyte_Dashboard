@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 
 export default function HomePage() {
   const stats = [
-    { title: 'Total Posts', value: 120+ },
-    { title: 'Total Users', value: 25k+ },
-    { title: 'New Signups', value: 50+ },
-    { title: 'Active Sessions', value: 32+ },
+    { title: 'Total Posts', value: 120 },
+    { title: 'Total Users', value: 25 },
+    { title: 'New Signups', value: 50 },
+    { title: 'Active Sessions', value: 32 },
   ];
 
   return (
