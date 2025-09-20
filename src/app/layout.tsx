@@ -3,8 +3,8 @@ import Sidebar from '@/components/Sidebar';
 import Header from '@/components/Header';
 
 export const metadata = {
-  title: 'Zettabyte Dashboard',
-  description: 'Frontend Test Dashboard',
+  title: 'ZettaByte - Software Development Company',
+  description: 'ZettaByte Dashboard',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -3,10 +3,10 @@ import { motion } from 'framer-motion';
 
 export default function HomePage() {
   const stats = [
-    { title: 'Total Posts', value: 120 },
-    { title: 'Total Users', value: 10 },
-    { title: 'New Signups', value: 5 },
-    { title: 'Active Sessions', value: 32 },
+    { title: 'Total Posts', value: 120+ },
+    { title: 'Total Users', value: 25k+ },
+    { title: 'New Signups', value: 50+ },
+    { title: 'Active Sessions', value: 32+ },
   ];
 
   return (
@@ -17,7 +17,7 @@ export default function HomePage() {
         animate={{ opacity: 1, y: 0 }}
         className="p-6 bg-gray-800 rounded-lg shadow-md text-gray-100"
       >
-        <h1 className="text-2xl font-bold mb-2">Welcome to Zettabyte Dashboard</h1>
+        <h1 className="text-2xl font-bold mb-2">Welcome to the the Dashboard of ZettaByte</h1>
         <p className="text-gray-300">
           This is your mini dashboard. Here you can see summary stats and navigate to other pages.
         </p>
